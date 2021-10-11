@@ -1,4 +1,4 @@
 # RomainCEZ.github.io
 
 Learning Web development with OpenClassrooms.
-You can find my student projects RomainCEZ.github.io.
+You can find my student projects https://RomainCEZ.github.io.
